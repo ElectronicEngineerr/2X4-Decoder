@@ -1,2 +1,2 @@
-# 4X2-Decoder
-4X2 Decoder Design with VHDL on VIVADO
+# 2X4-Decoder
+2X4 Decoder Design with VHDL on VIVADO
